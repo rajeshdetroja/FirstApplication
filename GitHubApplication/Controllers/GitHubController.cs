@@ -16,7 +16,7 @@ namespace GitHubApplication.Controllers
             return View();
         }
 
-        public ActionResult Index()
+        public ActionResult Index1()
         {
             return View();
         }
